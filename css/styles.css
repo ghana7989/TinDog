@@ -170,7 +170,9 @@ p {
 .icons-foot{
   padding: 20px 10px;
 }
-
+.icon-foot:hover{
+  cursor:pointer;
+}
 @media (max-width: 1028px) {
   #title {
     text-align: center;
